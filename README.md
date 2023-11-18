@@ -27,6 +27,7 @@ print(f'{distance:.2f}')
 
 
 ### OUTPUT:
-![Alt text](<Screenshot 2023-11-18 101418.png>)
+![Screenshot 2023-11-18 101418](https://github.com/K-PRAVEEN-2005/DISTANCE-BETWEEN-TWO-POINTS/assets/145742724/bfe22567-3263-45ed-b3a6-a06b31d9fcc8)
+
 ### RESULT:
 The distance between two points are found successfully
